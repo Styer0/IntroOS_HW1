@@ -1,0 +1,16 @@
+arr[0] * arr[0] = 5
+
+	5 is an odd number
+
+arr[1] * arr[1] = 10
+
+	10 is an even number
+
+arr[2] * arr[2] = 15
+
+	15 is an odd number
+
+arr[3] * arr[3] = 20
+
+	20 is an even number
+
